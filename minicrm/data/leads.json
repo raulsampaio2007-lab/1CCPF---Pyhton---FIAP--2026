@@ -1,0 +1,23 @@
+[
+    {
+        "name": "alexandre",
+        "email": "a@b.com",
+        "company": "FIAP",
+        "step": "novo",
+        "created": "2026-09-10"
+    },
+    {
+        "name": "raul",
+        "email": "raul@25",
+        "company": "fiap",
+        "step": "quase vendendo",
+        "created": "2026-09-10"
+    },
+    {
+        "name": "pedro",
+        "email": "pedro@67",
+        "company": "mercado livre",
+        "step": "longe de vender",
+        "created": "2026-09-10"
+    }
+]
